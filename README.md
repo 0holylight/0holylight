@@ -1,25 +1,29 @@
+# Olá, eu sou o Guilherme 👋
 
+Estou numa jornada para me tornar um desenvolvedor de excelente qualidade.
 
-## Olá, eu sou o Guilherme!
+## O que estou explorando
+- Web Development
+- Segurança
 
-Estou numa jornada para para me tornar um desenvolvedor de excelente qualidade
+## Stack
+### Domino
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
-### O que estou explorando:
+### Aprendendo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-· Web-Development
-· Segurança
+## Projeto atual
+🔭 [Hot Wheels Collection - Front-End](https://github.com/0holylight/colecao-carrinhos-frontend) | [Hot Wheels Collection - Back-End](https://github.com/0holylight/colecao-carrinhos)  — app fullstack com cadastro, login e upload de imagens
 
-### O que estou construindo
+## Foco
+Aprendendo a construir aplicações completas ponta a ponta. Tenho interesse crescente em tecnologia aplicada ao mercado financeiro.
 
-Muitos veteranos recomendam aos iniciantes realizar projetos, construir qualquer sistema, aplicativo, site, a fim de colocar o conhecimento teórico em prática, ou realmente aprender na raça.
-
-Nesse sentido, decidi criar um projeto autoral, para que eu pudesse colocar o que eu aprendi em prática. 
-O projeto se consiste em uma Coleção de Carrinhos Hotwheels, onde o usuário acessa, faz seu cadastro no site, realiza login, e pode registrar seus carrinhos, descrevendo nome, cor, ano, e sua coleção, além de poder inserir uma foto. Esse projeto foi pensado para unir todas as camadas de um app: Base de Dados, Back-End, Front-End e claro, com o máximo de segurança possível (que eu consegui visualizar) em todas as camadas.
-
-### Foco Atual
-
-Por enquanto, estou montando um projeto fictício para aprender efetivamente como construir uma aplicação completa de ponta a ponta. Além disso, tenho um interesse vasto pela contribuição que a tecnologia oferece para o mercado financeiro, e certamente algum projeto nesse universo está como alvo para algo a ser feito a seguir.
-
-### Estudos e IA
-
+## IA
 Uso IA como ferramenta de apoio no aprendizado, sempre validando o que aprendo na prática.
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/guilherme-almeida-2bbb08422/)
